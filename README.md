@@ -4,7 +4,7 @@
 
 Follow these steps to get the Endless War DLC running on your machine. 
 
-1. **Locate your HOI4 Directory:** Find the root folder where your HOI4 dlc folder 📁 is located. ## NOT THE DLC DATA 
+1. **Locate your HOI4 Directory:** Find the root folder where your HOI4 dlc folder 📁 is located.  NOT THE DLC DATA 
 2. **Download the DLC:** Grab the latest `HOI4 dlc.zip` from the [Releases](../../releases) tab on this GitHub page.
 3. **Extract the Files:** Unzip the downloaded file. 
 4. **Drag and Drop:** Move the `Dlc` folder directly into your game's `dlc` directory.
