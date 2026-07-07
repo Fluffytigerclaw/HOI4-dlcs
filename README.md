@@ -10,7 +10,7 @@ Follow these steps to get the Endless War DLC running on your machine.
 4. **Drag and Drop:** Move the `Dlc` folder directly into your game's `dlc` directory.
 5.  If it ask you to 'Replace folder in place' do it won't break your game I promise.
 
-6. You need to run CreamAPI. It is not hard; you just select Hoi4 and hit the '+' by the game name and '✓'. It does not add DLCs; it makes it so it does not have a red triangle and it works in online. I would not recommend it, as it could get you banned from online. Link: https://github.com/ubden/CreamApi-CreamInstaller
+6. You need to run CreamAPI. It is not hard; you just select Hoi4 and hit the '+' by the game name and '✓'. It does not add DLCs; it makes it so it does not have a red triangle and it works in online. I would not recommend it, as it could get you banned from online. Link: https://github.com/FroggMaster/CreamInstaller
 
 Note. I will make a YouTube video on how to use
 
