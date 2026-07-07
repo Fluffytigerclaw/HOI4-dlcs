@@ -1,4 +1,4 @@
-# HOI4-dlcs demo that never ends
+# HOI4-dlcs ~~demo~~ that never ends
 
 ## ⚙️ Installation Guide
 
