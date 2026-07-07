@@ -20,13 +20,13 @@ Note. I will make a YouTube video on how to use
 
 If the DLC isn't loading or the game crashes upon reaching the endless trigger, check the following:
 
-* **Are your files in the right place?** Ensure you didn't accidentally mix up folders it should be in the dlc Floder
+* **Are your files in the right place?** Ensure you didn't accidentally mix up folders; they should be in the DLC folder.
 
 ---
 
 ## 🤝 Contributing
 
-HOI4 you got a dlc the just released and I don't have it up what you going to do Post it!
+Hey, you got a DLC that just released, and I don't have it yet. What are you going to do? Post it!
 
 1. Fork the Project
 2. Create your Feature Branch 
