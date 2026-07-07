@@ -35,4 +35,9 @@ HOI4 you got a dlc the just released and I don't have it up what you going to do
 5. Open a Pull Request
 
 
+## Warning ⚠️ ⚠️ ⚠️ 
+
+
+I am not perfect, some issues may happen, and I may release a place to download a file, but it says file size is 0. If it downloads, let me know, and I can fix it.
+
 
